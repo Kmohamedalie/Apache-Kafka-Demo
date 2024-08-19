@@ -1,6 +1,7 @@
 # Apache-Kafka-Demo
 [Apache Kafka](https://kafka.apache.org/):  Apache Kafka is an open-source distributed event streaming platform used by thousands of companies for high-performance data pipelines, streaming analytics, data integration, and mission-critical applications.
 
+Part of [IBM Data Engineering Professional training](https://www.coursera.org/learn/etl-and-data-pipelines-shell-airflow-kafka/home/module/4)
 <br><br>
 
 
